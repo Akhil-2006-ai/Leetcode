@@ -24,6 +24,7 @@
 | [0015-3sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
@@ -33,11 +34,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
