@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -31,6 +32,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 | [0011-container-with-most-water](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
