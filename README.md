@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
@@ -53,5 +54,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0792-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
