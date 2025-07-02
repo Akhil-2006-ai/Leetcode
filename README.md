@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
+| [0792-binary-search](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
