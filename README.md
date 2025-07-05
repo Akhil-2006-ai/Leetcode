@@ -33,6 +33,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
