@@ -7,3 +7,4 @@ class Solution:
 
                 return num
             hashmap[num] = 1
+        return []
