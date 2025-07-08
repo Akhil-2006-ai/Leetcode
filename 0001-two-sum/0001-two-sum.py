@@ -5,8 +5,8 @@ class Solution:
             diff = target - num
             if diff  in hashmap:
                 return [hashmap[diff] , i]
-            else:
-                hashmap[num] = i
+           
+            hashmap[num] = i
         
             
             
