@@ -9,5 +9,4 @@ class Solution:
             else:
                 R = Mid
         return L
-
-        
+         
