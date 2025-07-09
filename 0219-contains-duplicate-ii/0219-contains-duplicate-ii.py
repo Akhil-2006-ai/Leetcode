@@ -6,5 +6,6 @@ class Solution:
                 return True
             hashmap[num] = i
         return False
+
+
         
-       
