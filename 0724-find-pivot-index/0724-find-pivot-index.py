@@ -4,16 +4,6 @@ class Solution:
         totalsum = sum(nums)
         for i in range(len(nums)):
             if leftsum == totalsum - nums[i] - leftsum:
-                return i 
+                return i
             leftsum += nums[i]
         return -1
-
-        
-
-
-
-
-
-
-
-        
