@@ -47,6 +47,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -94,6 +95,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
