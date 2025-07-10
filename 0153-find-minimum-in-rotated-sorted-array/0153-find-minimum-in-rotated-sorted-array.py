@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         L = 0
@@ -11,3 +9,5 @@ class Solution:
             else:
                 R = Mid
         return nums[L]
+
+
