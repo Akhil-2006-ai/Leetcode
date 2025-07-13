@@ -4,11 +4,24 @@ class Solution:
         R = len(nums) - 1
         while L <= R:
             Mid = (L + R) // 2
-            if target == nums[Mid]:
-                return Mid
-            elif target > nums[Mid]:
+            if target > nums[Mid]:
                 L = Mid + 1
+            elif target < nums[Mid]:
+                R = Mid - 1
             else:
-                R  = Mid - 1
+                return Mid
         return L
-            
+
+
+        
+        
+    
+
+
+
+
+
+
+
+
+        
