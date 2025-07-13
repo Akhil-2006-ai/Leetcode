@@ -8,6 +8,9 @@ class Solution:
                 L = Mid + 1
             else:
                 R = Mid
+
         return nums[L]
 
 
+
+        
