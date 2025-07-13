@@ -8,7 +8,6 @@ class Solution:
                 R += 1
             else:
                 R += 1
-
         if L == len(s):
             return True
         else:
