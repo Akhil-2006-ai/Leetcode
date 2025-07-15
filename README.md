@@ -157,4 +157,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
