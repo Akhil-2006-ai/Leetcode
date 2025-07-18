@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
