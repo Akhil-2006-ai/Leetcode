@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -177,6 +178,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0206-reverse-linked-list) |
