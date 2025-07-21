@@ -25,4 +25,7 @@ class Solution:
             curr = curr.next
         return oldtonew[head]
 
+
+
+
         
