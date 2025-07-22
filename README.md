@@ -211,6 +211,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -218,6 +219,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -232,6 +235,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
