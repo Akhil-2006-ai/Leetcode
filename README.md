@@ -56,6 +56,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
@@ -206,6 +209,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
@@ -218,6 +222,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
