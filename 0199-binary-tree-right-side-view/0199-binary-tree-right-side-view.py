@@ -6,25 +6,25 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        queue = deque()
-        
-        if root:
-            queue.append(root)
         res = []
-        
-        while len(queue) > 0:
-            level = None
-            for _ in range(len(queue)):
-                curr = queue.popleft()
-                level = curr
-
-                if curr.left:
-                    queue.append(curr.left)
-                if curr.right:
-                    queue.append(curr.right)
-                
-            res.append(level.val)
-            
+        def bfs(node):
+            queue = deque()
+            if node:
+                queue.append(node)
+            while len(queue) > 0:
+                level = []
+                for _ in range(len(queue)):
+                    curr = queue.popleft()
+                    level = curr.val
+                    if curr.left:
+                        queue.append(curr.left)
+                    if curr.right:
+                        queue.append(curr.right)
+                res.append(level)
+        bfs(root)
         return res
-        
+                
+
+                    
+
         
