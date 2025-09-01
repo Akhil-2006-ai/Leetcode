@@ -37,6 +37,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0812-rotate-string](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
