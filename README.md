@@ -95,6 +95,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -298,4 +301,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
