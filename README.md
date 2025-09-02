@@ -154,6 +154,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0338-counting-bits) |
 ## Prefix Sum
