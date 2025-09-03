@@ -31,6 +31,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0344-reverse-string) |
@@ -61,6 +62,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +95,7 @@
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
@@ -110,6 +113,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -304,5 +308,10 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
