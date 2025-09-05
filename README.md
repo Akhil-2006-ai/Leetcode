@@ -78,6 +78,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Akhil-2006-ai/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0229-majority-element-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Akhil-2006-ai/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Akhil-2006-ai/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0724-find-pivot-index) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Akhil-2006-ai/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Sliding Window
 |  |
 | ------- |
