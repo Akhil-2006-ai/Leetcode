@@ -1,16 +1,15 @@
 class Solution:
     def fib(self, n: int) -> int:
-        if n <= 1:
-            return n
+      if n <= 1:
+        return n
+      dp = [0 , 1]
+      i = 2
+      while i <= n:
+        temp = dp[1]
+        dp[1] = dp[0] + dp[1]
+        dp[0] = temp
+        i += 1
+      return dp[1]
+    
         
-        fib = [0,1]
-        i = 2
-        while i <=n:
-            temp = fib[1]
-            fib[1] = fib[0] + fib[1]
-            fib[0] = temp
-            i += 1
-
-        return fib[1]
-        
-        
+    
