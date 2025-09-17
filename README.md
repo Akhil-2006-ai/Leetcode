@@ -95,6 +95,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -312,6 +314,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1013-fibonacci-number) |
 ## Trie
