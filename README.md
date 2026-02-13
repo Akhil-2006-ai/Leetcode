@@ -62,6 +62,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0162-find-peak-element) |
@@ -177,6 +178,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0338-counting-bits) |
