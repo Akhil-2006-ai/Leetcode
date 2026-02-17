@@ -69,6 +69,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@
 | [0018-4sum](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -126,6 +128,7 @@
 | [0139-word-break](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0242-valid-anagram) |
