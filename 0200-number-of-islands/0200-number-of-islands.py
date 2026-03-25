@@ -1,5 +1,7 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
+        if not grid:
+            return 0
         rows , columns = len(grid) , len(grid[0])
         visited = set()
         num_islands = 0
