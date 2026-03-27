@@ -4,6 +4,9 @@ class Solution:
         num_islands = 0
         visited = set()
 
+        if not grid:
+            return 0
+
         def bfs(r,c):
            q = collections.deque()
            visited.add((r,c))
