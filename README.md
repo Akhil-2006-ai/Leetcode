@@ -78,6 +78,7 @@
 | [0238-product-of-array-except-self](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0695-max-area-of-island](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0733-flood-fill) |
 ## Interactive
 |  |
@@ -276,6 +278,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0733-flood-fill) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -315,6 +318,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0733-flood-fill) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Akhil-2006-ai/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -347,4 +351,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Akhil-2006-ai/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
